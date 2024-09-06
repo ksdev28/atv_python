@@ -14,3 +14,4 @@ if media >= 7:
     print("Resultado: Aprovado.")
 else:
     print("Resultado: Reprovado.")
+    #teste teste
