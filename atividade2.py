@@ -5,3 +5,5 @@ if numero % 2 == 0:
 
 else:
     print(f"O número é ímpar.")
+
+    #commit teste
